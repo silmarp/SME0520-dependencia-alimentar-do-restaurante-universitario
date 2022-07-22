@@ -1,53 +1,53 @@
-"Carimbo de data/hora","Pontuação total","Você reside em...","Você reside em... [Pontuação]","Você reside em... [Feedback]","Você tem condições de se alimentar em outro lugar com frequência?","Você tem condições de se alimentar em outro lugar com frequência? [Pontuação]","Você tem condições de se alimentar em outro lugar com frequência? [Feedback]","Você acha que se alimenta bem?","Você acha que se alimenta bem? [Pontuação]","Você acha que se alimenta bem? [Feedback]","Quanto você gasta por refeição quando o bandejão não abre?","Quanto você gasta por refeição quando o bandejão não abre? [Pontuação]","Quanto você gasta por refeição quando o bandejão não abre? [Feedback]","Você gosta de comer no bandejão?","Você gosta de comer no bandejão? [Pontuação]","Você gosta de comer no bandejão? [Feedback]","Você almoça e janta no bandejão?","Você almoça e janta no bandejão? [Pontuação]","Você almoça e janta no bandejão? [Feedback]","Você toma café da manhã no bandejão?","Você toma café da manhã no bandejão? [Pontuação]","Você toma café da manhã no bandejão? [Feedback]","Você almoça no bandejão aos sábados?","Você almoça no bandejão aos sábados? [Pontuação]","Você almoça no bandejão aos sábados? [Feedback]","Quantas vezes você janta no bandejão por semana?","Quantas vezes você janta no bandejão por semana? [Pontuação]","Quantas vezes você janta no bandejão por semana? [Feedback]","Quantas vezes você almoça no bandejão por semana?","Quantas vezes você almoça no bandejão por semana? [Pontuação]","Quantas vezes você almoça no bandejão por semana? [Feedback]"
-"2022/07/14 6:07:29 PM GMT-3","0.00 / 0","Casa","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","20 a 40 reais","-- / 0","","Não","-- / 0","","Não, eu só almoço.","-- / 0","","Não","-- / 0","","Não","-- / 0","","Nenhuma","-- / 0","","1 a 3 vezes","-- / 0",""
-"2022/07/14 6:10:11 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Sim","-- / 0","","1 a 3 vezes","-- / 0","","4 ou 5 vezes","-- / 0",""
-"2022/07/14 6:15:15 PM GMT-3","0.00 / 0","Alojamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Não","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/14 6:23:57 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","20 a 40 reais","-- / 0","","Sim","-- / 0","","Não, eu só almoço.","-- / 0","","Não","-- / 0","","Sim","-- / 0","","","","","Todos os dias","-- / 0",""
-"2022/07/15 4:35:11 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","20 a 40 reais","-- / 0","","Sim","-- / 0","","Não, eu só almoço.","-- / 0","","Não","-- / 0","","Sim","-- / 0","","1 a 3 vezes","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 4:40:37 PM GMT-3","0.00 / 0","Casa","-- / 0","","Não","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 4:41:00 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Sim","-- / 0","","4 ou 5 vezes","-- / 0","","4 ou 5 vezes","-- / 0",""
-"2022/07/15 4:41:01 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Sim","-- / 0","","Não","-- / 0","","20 a 40 reais","-- / 0","","Sim","-- / 0","","Não, eu só almoço.","-- / 0","","Não","-- / 0","","Não","-- / 0","","1 a 3 vezes","-- / 0","","1 a 3 vezes","-- / 0",""
-"2022/07/15 4:43:10 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Não","-- / 0","","20 a 40 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Não","-- / 0","","1 a 3 vezes","-- / 0","","1 a 3 vezes","-- / 0",""
-"2022/07/15 4:43:56 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","20 a 40 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 4:44:52 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","20 a 40 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 4:45:43 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","20 a 40 reais","-- / 0","","Sim","-- / 0","","Não, eu só almoço.","-- / 0","","Não","-- / 0","","Não","-- / 0","","Nenhuma","-- / 0","","4 ou 5 vezes","-- / 0",""
-"2022/07/15 4:46:16 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Não","-- / 0","","20 a 40 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Não","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 4:47:12 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Não","-- / 0","","1 a 3 vezes","-- / 0","","4 ou 5 vezes","-- / 0",""
-"2022/07/15 4:47:28 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Não","-- / 0","","4 ou 5 vezes","-- / 0","","4 ou 5 vezes","-- / 0",""
-"2022/07/15 4:49:08 PM GMT-3","0.00 / 0","Casa","-- / 0","","Não","-- / 0","","Sim","-- / 0","","20 a 40 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 4:49:09 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Não","-- / 0","","0 a 20 reais","-- / 0","","Não","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Sim","-- / 0","","4 ou 5 vezes","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 4:49:33 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Não","-- / 0","","20 a 40 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Sim","-- / 0","","4 ou 5 vezes","-- / 0","","1 a 3 vezes","-- / 0",""
-"2022/07/15 4:51:11 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 4:51:25 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Sim","-- / 0","","Não","-- / 0","","20 a 40 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 4:52:07 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Sim","-- / 0","","Não","-- / 0","","0 a 20 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Não","-- / 0","","1 a 3 vezes","-- / 0","","4 ou 5 vezes","-- / 0",""
-"2022/07/15 4:53:54 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Sim","-- / 0","","4 ou 5 vezes","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 4:55:05 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Não","-- / 0","","0 a 20 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 5:00:40 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Não","-- / 0","","20 a 40 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 5:00:44 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","20 a 40 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 5:06:39 PM GMT-3","0.00 / 0","República","-- / 0","","Não","-- / 0","","Sim","-- / 0","","20 a 40 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Sim","-- / 0","","4 ou 5 vezes","-- / 0","","4 ou 5 vezes","-- / 0",""
-"2022/07/15 5:14:19 PM GMT-3","0.00 / 0","Casa","-- / 0","","Não","-- / 0","","Sim","-- / 0","","40 ou mais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 5:15:48 PM GMT-3","0.00 / 0","Alojamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 5:16:19 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 5:17:15 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Não","-- / 0","","Não, eu só janto.","-- / 0","","Não","-- / 0","","Não","-- / 0","","Nenhuma","-- / 0","","Nenhuma","-- / 0",""
-"2022/07/15 5:19:27 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","40 ou mais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 5:19:40 PM GMT-3","0.00 / 0","Alojamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","20 a 40 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 5:25:34 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Não","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Sim","-- / 0","","4 ou 5 vezes","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 5:27:17 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Sim","-- / 0","","4 ou 5 vezes","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 5:31:41 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Não","-- / 0","","20 a 40 reais","-- / 0","","Sim","-- / 0","","Não, eu só almoço.","-- / 0","","Não","-- / 0","","Sim","-- / 0","","Nenhuma","-- / 0","","4 ou 5 vezes","-- / 0",""
-"2022/07/15 5:35:32 PM GMT-3","0.00 / 0","Alojamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 5:38:22 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Não","-- / 0","","20 a 40 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Não","-- / 0","","4 ou 5 vezes","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 6:33:12 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 6:52:54 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 6:59:44 PM GMT-3","0.00 / 0","República","-- / 0","","Não","-- / 0","","Não","-- / 0","","0 a 20 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","4 ou 5 vezes","-- / 0","","4 ou 5 vezes","-- / 0",""
-"2022/07/15 7:01:05 PM GMT-3","0.00 / 0","Alojamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 7:13:11 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Não","-- / 0","","Não, eu só almoço.","-- / 0","","Não","-- / 0","","Sim","-- / 0","","1 a 3 vezes","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 7:28:14 PM GMT-3","0.00 / 0","Casa","-- / 0","","Não","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Sim","-- / 0","","Não, eu só almoço.","-- / 0","","Não","-- / 0","","Não","-- / 0","","4 ou 5 vezes","-- / 0","","4 ou 5 vezes","-- / 0",""
-"2022/07/15 7:29:07 PM GMT-3","0.00 / 0","Casa","-- / 0","","Sim","-- / 0","","","","","0 a 20 reais","-- / 0","","Não","-- / 0","","Não, eu só almoço.","-- / 0","","Não","-- / 0","","Não","-- / 0","","Nenhuma","-- / 0","","1 a 3 vezes","-- / 0",""
-"2022/07/15 7:46:26 PM GMT-3","0.00 / 0","Casa","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Não","-- / 0","","Não, eu só almoço.","-- / 0","","Não","-- / 0","","Não","-- / 0","","Nenhuma","-- / 0","","Nenhuma","-- / 0",""
-"2022/07/15 7:54:11 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Sim","-- / 0","","1 a 3 vezes","-- / 0","","4 ou 5 vezes","-- / 0",""
-"2022/07/15 10:43:08 PM GMT-3","0.00 / 0","Alojamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 10:44:41 PM GMT-3","0.00 / 0","Alojamento","-- / 0","","Sim","-- / 0","","Não","-- / 0","","0 a 20 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 10:58:58 PM GMT-3","0.00 / 0","Alojamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","20 a 40 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/15 10:59:52 PM GMT-3","0.00 / 0","Alojamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","20 a 40 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/17 9:08:29 PM GMT-3","0.00 / 0","Casa","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Não","-- / 0","","Sim","-- / 0","","Não","-- / 0","","Não","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
-"2022/07/18 11:15:02 PM GMT-3","0.00 / 0","Apartamento","-- / 0","","Não","-- / 0","","Sim","-- / 0","","0 a 20 reais","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Sim","-- / 0","","Todos os dias","-- / 0","","Todos os dias","-- / 0",""
+Você reside em...,Você tem condições de se alimentar em outro lugar com frequência?,Você acha que se alimenta bem?,Quanto você gasta por refeição quando o bandejão não abre?,Você gosta de comer no bandejão?,Você almoça e janta no bandejão?,Você toma café da manhã no bandejão?,Você almoça no bandejão aos sábados?,Quantas vezes você janta no bandejão por semana?,Quantas vezes você almoça no bandejão por semana?
+Casa,Sim,Sim,20 a 40 reais,Não,"Não, eu só almoço.",Não,Não,Nenhuma,1 a 3 vezes
+Apartamento,Não,Sim,0 a 20 reais,Sim,Sim,Não,Sim,1 a 3 vezes,4 ou 5 vezes
+Alojamento,Não,Sim,0 a 20 reais,Não,Sim,Sim,Sim,Todos os dias,Todos os dias
+Apartamento,Não,Sim,20 a 40 reais,Sim,"Não, eu só almoço.",Não,Sim,,Todos os dias
+Apartamento,Não,Sim,20 a 40 reais,Sim,"Não, eu só almoço.",Não,Sim,1 a 3 vezes,Todos os dias
+Casa,Não,Sim,0 a 20 reais,Sim,Sim,Não,Sim,Todos os dias,Todos os dias
+Apartamento,Não,Sim,0 a 20 reais,Sim,Sim,Não,Sim,4 ou 5 vezes,4 ou 5 vezes
+Apartamento,Sim,Não,20 a 40 reais,Sim,"Não, eu só almoço.",Não,Não,1 a 3 vezes,1 a 3 vezes
+Apartamento,Não,Não,20 a 40 reais,Sim,Sim,Não,Não,1 a 3 vezes,1 a 3 vezes
+Apartamento,Não,Sim,20 a 40 reais,Sim,Sim,Sim,Sim,Todos os dias,Todos os dias
+Apartamento,Não,Sim,20 a 40 reais,Sim,Sim,Sim,Sim,Todos os dias,Todos os dias
+Apartamento,Não,Sim,20 a 40 reais,Sim,"Não, eu só almoço.",Não,Não,Nenhuma,4 ou 5 vezes
+Apartamento,Não,Não,20 a 40 reais,Sim,Sim,Não,Não,Todos os dias,Todos os dias
+Apartamento,Não,Sim,0 a 20 reais,Sim,Sim,Não,Não,1 a 3 vezes,4 ou 5 vezes
+Apartamento,Não,Sim,0 a 20 reais,Sim,Sim,Não,Não,4 ou 5 vezes,4 ou 5 vezes
+Casa,Não,Sim,20 a 40 reais,Sim,Sim,Não,Sim,Todos os dias,Todos os dias
+Apartamento,Não,Não,0 a 20 reais,Não,Sim,Não,Sim,4 ou 5 vezes,Todos os dias
+Apartamento,Não,Não,20 a 40 reais,Sim,Sim,Não,Sim,4 ou 5 vezes,1 a 3 vezes
+Apartamento,Sim,Sim,0 a 20 reais,Sim,Sim,Não,Sim,Todos os dias,Todos os dias
+Apartamento,Sim,Não,20 a 40 reais,Sim,Sim,Não,Sim,Todos os dias,Todos os dias
+Apartamento,Sim,Não,0 a 20 reais,Sim,Sim,Não,Não,1 a 3 vezes,4 ou 5 vezes
+Apartamento,Não,Sim,0 a 20 reais,Sim,Sim,Não,Sim,4 ou 5 vezes,Todos os dias
+Apartamento,Não,Não,0 a 20 reais,Sim,Sim,Não,Sim,Todos os dias,Todos os dias
+Apartamento,Não,Não,20 a 40 reais,Sim,Sim,Sim,Sim,Todos os dias,Todos os dias
+Apartamento,Não,Sim,20 a 40 reais,Sim,Sim,Não,Sim,Todos os dias,Todos os dias
+República,Não,Sim,20 a 40 reais,Sim,Sim,Não,Sim,4 ou 5 vezes,4 ou 5 vezes
+Casa,Não,Sim,40 ou mais,Sim,Sim,Não,Sim,Todos os dias,Todos os dias
+Alojamento,Não,Sim,0 a 20 reais,Sim,Sim,Sim,Sim,Todos os dias,Todos os dias
+Apartamento,Não,Sim,0 a 20 reais,Sim,Sim,Não,Sim,Todos os dias,Todos os dias
+Apartamento,Sim,Sim,0 a 20 reais,Não,"Não, eu só janto.",Não,Não,Nenhuma,Nenhuma
+Apartamento,Não,Sim,40 ou mais,Sim,Sim,Sim,Sim,Todos os dias,Todos os dias
+Alojamento,Não,Sim,20 a 40 reais,Sim,Sim,Não,Sim,Todos os dias,Todos os dias
+Apartamento,Não,Sim,0 a 20 reais,Não,Sim,Não,Sim,4 ou 5 vezes,Todos os dias
+Apartamento,Sim,Sim,0 a 20 reais,Sim,Sim,Não,Sim,4 ou 5 vezes,Todos os dias
+Apartamento,Não,Não,20 a 40 reais,Sim,"Não, eu só almoço.",Não,Sim,Nenhuma,4 ou 5 vezes
+Alojamento,Não,Sim,0 a 20 reais,Sim,Sim,Não,Sim,Todos os dias,Todos os dias
+Apartamento,Não,Não,20 a 40 reais,Sim,Sim,Não,Não,4 ou 5 vezes,Todos os dias
+Apartamento,Não,Sim,0 a 20 reais,Sim,Sim,Sim,Sim,Todos os dias,Todos os dias
+Apartamento,Não,Sim,0 a 20 reais,Sim,Sim,Não,Sim,Todos os dias,Todos os dias
+República,Não,Não,0 a 20 reais,Sim,Sim,Sim,Sim,4 ou 5 vezes,4 ou 5 vezes
+Alojamento,Não,Sim,0 a 20 reais,Sim,Sim,Sim,Sim,Todos os dias,Todos os dias
+Apartamento,Sim,Sim,0 a 20 reais,Não,"Não, eu só almoço.",Não,Sim,1 a 3 vezes,Todos os dias
+Casa,Não,Sim,0 a 20 reais,Sim,"Não, eu só almoço.",Não,Não,4 ou 5 vezes,4 ou 5 vezes
+Casa,Sim,,0 a 20 reais,Não,"Não, eu só almoço.",Não,Não,Nenhuma,1 a 3 vezes
+Casa,Sim,Sim,0 a 20 reais,Não,"Não, eu só almoço.",Não,Não,Nenhuma,Nenhuma
+Apartamento,Sim,Sim,0 a 20 reais,Sim,Sim,Não,Sim,1 a 3 vezes,4 ou 5 vezes
+Alojamento,Não,Sim,0 a 20 reais,Sim,Sim,Sim,Sim,Todos os dias,Todos os dias
+Alojamento,Sim,Não,0 a 20 reais,Sim,Sim,Sim,Sim,Todos os dias,Todos os dias
+Alojamento,Não,Sim,20 a 40 reais,Sim,Sim,Não,Sim,Todos os dias,Todos os dias
+Alojamento,Não,Sim,20 a 40 reais,Sim,Sim,Não,Sim,Todos os dias,Todos os dias
+Casa,Sim,Sim,0 a 20 reais,Não,Sim,Não,Não,Todos os dias,Todos os dias
+Apartamento,Não,Sim,0 a 20 reais,Sim,Sim,Sim,Sim,Todos os dias,Todos os dias
